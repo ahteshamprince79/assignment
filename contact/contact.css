@@ -1,0 +1,25 @@
+
+.contact-info input{
+margin: 10px 0px;
+}
+input{
+    width: 100%;
+}
+textarea{
+    width: 100%;
+}
+.contact-content{
+    margin-top: 50px;
+}
+.btn{
+    background-color: #f36f21;
+    width: 18%;
+    margin-top: 7px;
+}
+.btn:hover{
+    background-color: #c04702;
+}
+input{
+    height: 35px;
+    padding: 5px 7px;
+}
